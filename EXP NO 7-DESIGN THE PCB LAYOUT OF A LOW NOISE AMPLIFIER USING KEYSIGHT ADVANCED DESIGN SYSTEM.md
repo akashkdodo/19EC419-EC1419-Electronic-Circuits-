@@ -10,6 +10,14 @@
 
 ## ADS circuit diagram
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/c2ee9d28-6ad0-4b8b-8643-b6ee6ffec4b5" />
+
+
 ## output waveforms
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/e8cb83e3-0843-4ae8-b81c-e6f6421411d5" />
+
+
 ## result
+
+The PCB layout of the Low Noise Amplifier was successfully designed in Keysight ADS. Layout verification (DRC and LVS) was performed, and the RF performance was analysed using S-parameter simulation.
