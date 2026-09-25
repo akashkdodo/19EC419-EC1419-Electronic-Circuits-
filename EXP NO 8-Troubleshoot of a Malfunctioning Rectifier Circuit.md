@@ -8,6 +8,14 @@
 
 ## tabulation
 
+<img width="780" height="654" alt="image" src="https://github.com/user-attachments/assets/f2229c99-55da-4fcf-b9e4-01d04e59e212" />
+
+
 ## attach graph sheet
 
+<img width="573" height="802" alt="image" src="https://github.com/user-attachments/assets/a210924b-d1c0-454e-a5c8-0c13b5a3416b" />
+
+
 ## result
+
+Thus the analysis of a malfunctioning rectifier was done and the faults were identified. The circuit was troubleshooted to restore proper operation.
